@@ -10,7 +10,7 @@
 
 ## 使用技術
 
-- Unity
+- Xamarin
 - C#
 - Azure Speech SDK
 - Open CV
