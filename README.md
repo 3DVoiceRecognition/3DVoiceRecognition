@@ -6,7 +6,7 @@
 
 ## 設計図
 
-![設計図 drawio](https://user-images.githubusercontent.com/68012132/195770427-bd34ddce-1def-44e0-96a5-d3dd71649d52.png)
+![設計図 drawio (1)](https://user-images.githubusercontent.com/68012132/195779754-a0cc9e65-3426-415c-a52b-8ded07a1121d.png)
 
 ## 使用技術
 
